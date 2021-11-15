@@ -4,6 +4,10 @@ Script built off the SynMut package that uses weighted codon values to:
 	2. Generate candidates with recoded codon sequences with synonymous mutations
 	3. Filter candidates based on the average codon weight
 
+This code draws heavily on the SynMut package which can be found here: 
+  
+  	Gu H (2021). SynMut: SynMut: Designing Synonymously Mutated Sequences with Different Genomic
+  	Signatures. R package version 1.10.0, https://github.com/Koohoko/SynMut.
 
 Required input files:
 
